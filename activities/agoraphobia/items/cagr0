@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cagr0",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "### Symptoms\r\n\r\nEarlier you said that you have been very nervous or afraid of (list endorsed fears).  I'd now like to ask you more about (that/those).",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

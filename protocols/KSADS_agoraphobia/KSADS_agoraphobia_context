@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-agoraphobia/master/activities/",
+        "agoraphobia": {
+            "@id": "activity_path:agoraphobia/agoraphobia_schema",
+            "@type": "@id"
+        }
+    }
+}
